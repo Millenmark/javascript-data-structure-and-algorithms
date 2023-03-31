@@ -13,6 +13,6 @@ function binarySearch(arr, target) {
   }
 
   return -1
-}
+}//This is Big-O = O(logn) because we reduce this by half
 
 console.log(binarySearch([-5, 2, 5, 6, 10, 23], 6))
