@@ -15,6 +15,8 @@ function summation2(n) {
 console.log(summation(5))
 console.log(summation2(7));
 
+
+
 function oddEven(n) {
   return n % 2 === 0 ? 'even' : 'odd'
 }
