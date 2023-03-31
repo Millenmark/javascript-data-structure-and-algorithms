@@ -7,6 +7,6 @@ function isPowerOfTwo(n) {
   }
 
   return true
-}
+} //this is a Big-O of O(logn)
 
 console.log(isPowerOfTwo(16));
