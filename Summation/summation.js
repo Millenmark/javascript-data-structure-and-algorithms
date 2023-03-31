@@ -1,9 +1,9 @@
 function summation(n) {
   let sum = 0
   for (let i = 1; i <= n; i++){
-    document.write(`This is index: ${i}<br> `)
+    console.log(`This is index: ${i}`)
     sum += i
-    document.write(`This is the sum after the index increment: ${sum} <br>`)
+    console.log(`This is the sum after the index increment: ${sum}`)
   }
   return sum
 }//This is O(n)
