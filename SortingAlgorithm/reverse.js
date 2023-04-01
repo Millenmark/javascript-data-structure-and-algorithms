@@ -29,4 +29,4 @@ function reverseSorted(arr){
   return arr
 }
 
-console.log(reverseSorted([50, 60, 70, 80, 90]));
+console.log(reverseSorted([50, 60, 70, 80, 90, 100]));
